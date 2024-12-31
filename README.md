@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm `d0tsama_dev`!
 
-- 🐾 Creator of [DogAI](https://dogai.gdn): A playful project combining blockchain, AI, and dogs!
+- 🐾 Re-creator of [DogAI](https://dogai.gdn): A playful project combining blockchain, AI, and dogs!
 - 🌐 Active participant in the [Polkadot](https://polkadot.network/) ecosystem, contributing to decentralization and OpenGov.
 - 🛠️ Skilled in Solana blockchain, Polkadot Substrate development, Flask, and creative AI integrations.
 - 🌟 Passionate about open-source contributions, Web3 innovation, and building a decentralized future.
